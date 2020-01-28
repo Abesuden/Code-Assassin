@@ -46,7 +46,7 @@ We use [Git](https://git-scm.com/doc) for versioning. For the versions available
 
 * **Alex Besuden** - *Provided README* - [@abesuden](https://github.com/abesuden)
 
-See also the list of [contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/abesuden/software-engineering/contributors) who participated in this project.
 
 ## License
 
