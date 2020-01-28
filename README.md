@@ -2,7 +2,7 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+## Progress
 
 Follow the current stage of the project [here](https://github.com/Abesuden/Software-Engineering/projects/1).
 
