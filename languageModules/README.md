@@ -1,4 +1,4 @@
-# Software Engineering Project (**Project Name Here**)
+# Software Engineering Project (**Code Assassin**)
 
 Code Assassin modules are add-on features that allow for a form of pre-transcompiling. Each module allows for a specific language to be used, where the user can have Code Assassine write code in their IDE for them without the user needing to have any knowledge of the language's syntax.
 
@@ -30,7 +30,7 @@ Pull/download the language files that will be used for the desired programming l
 
 ## Built With
 
-* [Visual Basic Scripting](https://ss64.com/vb/) - Used for the local database
+* [Visual Basic Scripting](https://ss64.com/vb/)
 
 ## Versioning
 
