@@ -1,6 +1,6 @@
-# Software Engineering Project (**Project Name Here**)
+# Software Engineering Project (**Code Assassin**)
 
-One Paragraph of project description goes here
+Code Assassin is an assistive program for programmers, where it acts similar to a pre-transcompiler dropping the syntax of the language into the IDE the programmer is coding in. An alias list is used across all languages to unify the syntax, so that any programmer without knowledge of a selected language can code in any language.
 
 ## Progress
 
@@ -12,35 +12,38 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Supported operating systems:
 
 ```
-Give examples
+Windows 10
+```
+
+What software you will need to install and how to install it:
+
+```
+Code Assassin
+Code Assassin Language Module(s)
 ```
 
 ### Installing
 
-A step by step series guide on how to set up the project on your local machine.
+A step by step guide on how to set up the project on your local machine.
 
-Pull the requirements for this project for you virtual environment
-
-```
-requirments.txt
-```
-
-Install all required dependencies
+Pull/download the Code Assassin programs called:
 
 ```
-pip install -r requirments.txt
+CoreProcess.exe
 ```
+
+Install all desired language modules found [here](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules)
 
 ## Deployment
 
-This project uses Docker containers for deployment on a live system.
+This program uses language modules in the form of plug and play, where a user can download a new language module and drop it right into the Code Assassin file and have access to a new programming language.
 
 ## Built With
 
-* [SQLlite](https://www.sqlite.org/docs.html) - Used for the local database
+* [Visual Basic Scripting](https://ss64.com/vb/)
 
 ## Versioning
 
