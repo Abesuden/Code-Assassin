@@ -1,4 +1,4 @@
-# Software Engineering Project (**Project Name Here**)
+# Software Engineering Project (**Code Assassin**)
 
 One Paragraph of project description goes here
 
@@ -8,39 +8,17 @@ Follow the current stage of the project [here](https://github.com/Abesuden/Softw
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You will need to go into the [src](https://github.com/Abesuden/Software-Engineering/tree/master/src) and [Language Modules](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules) sub folders and follow the installation steps. Make sure to follow this order first:
+* [src](https://github.com/Abesuden/Software-Engineering/tree/master/src)
+* [languageModules](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules)
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Operating System requirments:
 
 ```
-Give examples
+Windows 10
 ```
-
-### Installing
-
-A step by step series guide on how to set up the project on your local machine.
-
-Pull the requirements for this project for you virtual environment
-
-```
-requirments.txt
-```
-
-Install all required dependencies
-
-```
-pip install -r requirments.txt
-```
-
-## Deployment
-
-This project uses Docker containers for deployment on a live system.
-
-## Built With
-
-* [SQLlite](https://www.sqlite.org/docs.html) - Used for the local database
 
 ## Versioning
 
