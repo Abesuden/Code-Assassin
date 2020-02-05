@@ -2,8 +2,10 @@
 
 ### Scenario
 
-- Company A has been using the .NET stack for the past 10 years
-- Employee was recently hired at a company 
+- UNF has been using the Oracle stack for the past 10 years
+- Recently they have migrated to the .NET stack
+- In addition, UNF has recently hired 5 new employees
+- In order to facilitate new employees' transition to the new software stack, UNF has tasked our group with developing software that will allow employees to quickly adapt to, and develop with, the new programming stack
 
 ### Proposal
 
