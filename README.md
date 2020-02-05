@@ -40,5 +40,5 @@ This project is licensed under the [MIT](LICENSE.md) Creative Commons License - 
 * [@Josh Lowy](https://github.com/DLJ42) (**Solutions Architect**)
 * [@Donald Thompson](https://github.com/dthompsonii) (**Software Developer**)
 * [@Vlad Smirnov](https://github.com/Pr0vlad) (**Software Developer**)
-* [@Riley Kollman](https://github.com/) (**Database Lead**)
+* [@Riley Kollman](https://github.com/kr-1) (**Database Lead**)
 * [@Ethan Unkefer](https://github.com/eunkefer) (**Quality Manager**)
