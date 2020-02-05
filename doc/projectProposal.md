@@ -9,7 +9,7 @@
 
 ### Proposal
 
-The Code Assassins application assists developers with implementing the syntax of multiple programming languages. The application will identify the developers IDE workflow and intput the correct syntax using a succinct alias library. The program is used to accomplish specific tasks within each respective language (i.e. print, initialize/declare variable, build array/list, ect.). 
+The Code Assassins application assists developers with implementing the syntax of multiple programming languages. The application will identify the developers IDE workflow and input the correct syntax using a succinct alias library. The program is used to accomplish specific tasks within each respective language (i.e. print, initialize/declare variable, build array/list, ect.). 
 
 ## Authors
 
