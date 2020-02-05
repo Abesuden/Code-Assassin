@@ -2,7 +2,8 @@
 
 ### Scenario
 
-
+- Company A has been using the .NET stack for the past 10 years
+- Employee was recently hired at a company 
 
 ### Proposal
 
