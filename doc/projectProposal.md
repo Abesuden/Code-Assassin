@@ -6,7 +6,7 @@
 
 ### Proposal
 
-
+The Code Assassins application assists developers with incorporating new programming languages into their development workflow by providing a succinct alias library to accomplish specific tasks within each respective language (i.e. print, initialize/declare variable, build array/list).
 
 ## Authors
 
