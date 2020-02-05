@@ -3,6 +3,7 @@
 Software Engineering project documentation will be found here, such as:
 
 ```
+Project Proposal
 IEEE SRS
 ```
 
@@ -21,6 +22,7 @@ We use [Git](https://git-scm.com/doc) for versioning. For the versions available
    * *Provided README*
    * *SRS* 
 * **Josh Lowy** - [@Josh Lowy](https://github.com/DLJ42)
+   * *Project Proposal*
    * *SRS*
 * **Donald Thompson** - [@Donald Thompson](https://github.com/dthompsonii)
    * *SRS*
