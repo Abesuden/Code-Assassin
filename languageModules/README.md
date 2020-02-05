@@ -56,7 +56,7 @@ This project is licensed under the [MIT](LICENSE.md) Creative Commons License - 
     * *chosen langauge*
 * [@Vlad Smirnov](https://github.com/Pr0vlad) (**Software Developer**)
     * *chosen langauge*
-* [@Riley Kollman](https://github.com/) (**Database Lead**)
+* [@Riley Kollman](https://github.com/kr-1) (**Database Lead**)
     * *chosen langauge*
 * [@Ethan Unkefer](https://github.com/eunkefer) (**Quality Manager**)
     * *chosen langauge*
