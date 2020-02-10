@@ -5,7 +5,15 @@
 - UNF has been using the Oracle stack for the past 10 years
 - Recently they have migrated to the .NET stack
 - In addition, UNF has recently hired 5 new employees
-- In order to facilitate new employees' transition to the new software stack, UNF has tasked our group with developing software that will allow employees to quickly adapt to, and develop with, the new programming stack
+- In order to facilitate new employees' transition to the new software stack, UNF has tasked a local consulting group (Code Assassins) with developing software that will allow employees to quickly adapt to, and develop with, the new programming stack
+
+### Statement of Need
+
+UNF is in need of a system that will provide a streamlined approach for employees to begin developing software using unfamiliar programming languages. Due to the strict nature of UNF's expectations of developers, they are hoping to avoid the lag time that is commonly associated with migrating to a new programming stack. Such a system should meet the following **requirements**:
+* Quickly and efficiently perform common software operations in various languages using predefined aliases
+* Select the programming language to be used for the respective IDE session
+* Interface with the respective IDE that the developer decides to use
+* Run on windows 10
 
 ### Proposal
 
