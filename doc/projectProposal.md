@@ -1,7 +1,11 @@
 # Software Engineering Project Proposal
 
 ### Scenario
-
+You have been asked to lead a software development team to build a system fulfilling the 
+Statement of Need below. You and your team are employees of a software development 
+company, under contract to the Information Technology Services (ITS) of University of North 
+Florida (UNF).  The project must balance reasonable system cost, development effort, timely 
+delivery, software quality, and functionality.
 - UNF has been using the Oracle stack for the past 10 years
 - Recently they have migrated to the .NET stack
 - In addition, UNF has recently hired 5 new employees
