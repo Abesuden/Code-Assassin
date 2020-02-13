@@ -47,6 +47,5 @@ com		    single line comment
 comm		multiple line comment
 cright		comments a copyright line
 docs		makes documents for methods or functions
-jump		will make a goto statement with a lable
 
 ```
