@@ -20,6 +20,7 @@ The Code Assassins application assists developers with implementing the syntax o
 ## Authors
 
 * **Josh Lowy** - *Initial Commit* - [@Josh Lowy](https://github.com/DLJ42)
+* **Alex Besuden** - *Edits* - [@Alex Besuden](https://github.com/abesuden)
 
 See also the list of [contributors](https://github.com/abesuden/software-engineering/contributors) who participated in this project.
 
