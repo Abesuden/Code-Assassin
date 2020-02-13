@@ -29,8 +29,8 @@ printf		formats the text printed to screen
 scan		scans for user input
 scanf		scans with a format for user input
 if		use to compare values
-ife	 makes an if else statement
-eif	 adds to an if stamtent to make an if else
+ife	   makes an if else statement
+eif	   adds to an if stamtent to make an if else
 switch		makes a switch case statement
 for		makes a for loop
 foreach		makes a for each loop
