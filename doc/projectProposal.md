@@ -1,7 +1,7 @@
 # Software Engineering Project Proposal
 
 ### Scenario
-You have been asked to lead a software development team to build a system fulfilling the Statement of Need below. You and your team are employees of a software development company, under contract to the Information Technology Services (ITS) of University of North Florida (UNF).  The project must balance reasonable system cost, development effort, timely delivery, software quality, and functionality. UNF has been using the Oracle stack for the past 10 years and recently, they have migrated to the .NET stack. In addition, UNF has recently hired 5 new employees. In order to facilitate new employees' transition to the new software stack, UNF has tasked a local consulting group (Code Assassins) with developing software that will allow employees to quickly adapt to, and develop with, the new programming stack
+You have been asked to lead a software development team to build a system fulfilling the Statement of Need below. You and your team are employees of a software development company, under contract to the Information Technology Services (ITS) department of University of North Florida (UNF). The project must balance reasonable system cost, development effort, timely delivery, software quality, and functionality. UNF has been using the Oracle stack for the past 10 years and recently, they have migrated to the .NET stack. In addition, UNF has recently hired 5 new employees. In order to facilitate new employees' transition to the new software stack, UNF has tasked a local consulting group (Code Assassins) with developing software that will allow employees to quickly adapt to, and develop with, the new programming stack. Due to the rushed, and yet, critical nature of the given scenario, UNF has stressed the importance of simple development and rapid deployment of the application. Should additional features be required in the future, they will be implemented as updates to the existing deployed platform. The initial version of the application will be soley focused on increasing the productivity of UNF developers.
 
 ### Statement of Need
 
@@ -12,6 +12,7 @@ UNF is in need of a system that will provide a streamlined approach for employee
 * Select the programming language to be used for the respective IDE session
 * Interface with the respective IDE that the developer decides to use
 * Run on windows 10
+* Support Java, C#, Rust, and Golang
 
 ### Proposal
 
