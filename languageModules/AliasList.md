@@ -28,14 +28,14 @@ print		prints text to the screen
 printf		formats the text printed to screen
 scan		scans for user input
 scanf		scans with a format for user input
-if		    use to compare values
-ife		    makes an if else statement
-eif		    adds to an if stamtent to make an if else
+if		use to compare values
+ife	 makes an if else statement
+eif	 adds to an if stamtent to make an if else
 switch		makes a switch case statement
-for		    makes a for loop
+for		makes a for loop
 foreach		makes a for each loop
 while		makes a while loop
-do		    makes a do while loop
+do		makes a do while loop
 meth		makes a function or method
 methh		makes a function header
 methc		makes a method or function call
@@ -43,7 +43,7 @@ class		make a new class or structure
 classi		makes an inner class
 syscall		allows for a system call
 pause		causes system to wait for the set time
-com		    single line comment
+com		single line comment
 comm		multiple line comment
 cright		comments a copyright line
 docs		makes documents for methods or functions
