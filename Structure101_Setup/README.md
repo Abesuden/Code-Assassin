@@ -55,4 +55,4 @@ To get to these `Repository Projects`, click the blue open file icon in the top 
 
 ## Step 5 [Export Static Dependencies]
 
-The goal is to extract static dependencies and upload then on Canvas. You can find the dependencies in the bottom left section of the program. There is a tab labeled `Depends` and this is where you can find the dependencies.
+The goal is to extract static dependencies and upload then on Canvas. You can find the dependencies in the bottom left section of the program. There is a tab labeled `Depends` and this is where you can find the dependencies. If you select all of the dependencies, they will display a graph with how all the classes depend on each other. You will now find an export button above the graph. Select export LSM as an XML file. This is the file you will be uploading.
