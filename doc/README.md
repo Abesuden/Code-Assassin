@@ -21,6 +21,8 @@ We use [Git](https://git-scm.com/doc) for versioning. For the versions available
 * **Alex Besuden** - [@abesuden](https://github.com/abesuden)
    * *Provided README*
    * *SRS* 
+   * *developmentDocumentation.md*
+   * *escapeGuide.md*
 * **Josh Lowy** - [@Josh Lowy](https://github.com/DLJ42)
    * *Project Proposal*
    * *SRS*
