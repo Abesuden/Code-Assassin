@@ -3,7 +3,7 @@
 [![Documentation Completion](https://img.shields.io/badge/DocumentationCompletion-75%25-1abc9c.svg)](https://github.com/NLPLOGIX-ORG/miller-revit/graphs/commit-activity)
 
 
-This documentation will go over, from start to finish, how to create a Code Assassin module for a new programming languages.
+This documentation will go over, from start to finish, how to create a Code Assassin module for a new programming language.
 
 <details>
 <summary>Steps</summary>
