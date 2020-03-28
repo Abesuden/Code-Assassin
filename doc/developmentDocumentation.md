@@ -98,7 +98,7 @@ After the alias list has been built out (every alias in the alias list has an as
 ### File Name 
 
 ```
-languageName_part1.txt
+languageName_part1.md
 ```
 
 ### Document Format
@@ -157,7 +157,7 @@ After the code syntax has been escaped, place the code into a new file. Follow t
 ### File Name 
 
 ```
-languageName_part2.txt
+languageName_part2.md
 ```
 
 ### Document Format
