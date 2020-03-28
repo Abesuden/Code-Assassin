@@ -22,7 +22,7 @@ This documentation will go over, from start to finish, how to create a Code Assa
 
 ## Choose A language
 
-This is the most important step because it will dectate what language you will be building a module for. Pick something you are comfortable in.
+This is the most important step because it will dictate what language you will be building a module for. Pick something you are comfortable in.
 
 ## Get The Alias List
 
@@ -71,7 +71,7 @@ int main (void) {
 #include <time.h>
 #include <stdbool.h>
 ```
-> This would be any library imports that a developer may need in a semi-complicated project. If the developer wanted something simple, it would not be benificial to launch and use CA then. Thus, we are focusing on more complicated programs. Also, imports include any library that is needed for any aliased code syntax. For example, `bool isTrue = True;` requires the import of the stdbool.h which can be seen in the above code snippet.
+> This would be any library imports that a developer may need in a semi-complicated project. If the developer wanted something simple, it would not be beneficial to launch and use CA then. Thus, we are focusing on more complicated programs. Also, imports include any library that is needed for any aliased code syntax. For example, `bool isTrue = True;` requires the import of the stdbool.h which can be seen in the above code snippet.
  
 ### vari
 ```
@@ -195,7 +195,7 @@ float varName = 3.14;
 
 ## Push Files
 
-Once you have gotten to this step, you will need to push the two files onto github. This is the main directory location [here](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules). You will need to choose the file for the language you have selected. For instance, for the language C, the push will be in this repo directory location:
+Once you have gotten to this step, you will need to push the two files onto GitHub. This is the main directory location [here](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules). You will need to choose the file for the language you have selected. For instance, for the language C, the push will be in this repo directory location:
 
 ```
 https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/C
