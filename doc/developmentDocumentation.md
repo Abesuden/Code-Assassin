@@ -6,7 +6,7 @@
 This documentation will go over, from start to finish, how to create a Code Assassin module for a new programming language.
 
 <details>
-<summary>Steps</summary>
+<summary>Steps (click to expand)</summary>
 
  1. [Choose A Language](https://github.com/Abesuden/Software-Engineering/blob/master/doc/developmentDocumentation.md#choose-a-language)
  1. [Get The Alias List](https://github.com/Abesuden/Software-Engineering/blob/master/doc/developmentDocumentation.md#get-the-alias-list)
