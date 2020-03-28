@@ -1,6 +1,14 @@
 # Software Engineering Project (**Code Assassin**)
 
-One Paragraph of project description goes here
+Code Assassin is an assistive program for programmers, where it acts similar to a pre-transcompiler dropping the syntax of the language into the IDE the programmer is coding in. An alias list is used across all languages to unify the syntax, so that any programmer without knowledge of a selected language can code in any supported language.
+
+## (For Developers)
+
+> Find instructions on how to develop for this project [here](https://github.com/Abesuden/Software-Engineering/blob/master/doc/developmentDocumentation.md)
+
+## Proposal
+
+the project proposal can be found [here](https://github.com/Abesuden/Software-Engineering/blob/master/doc/projectProposal.md)
 
 ## Progress
 
