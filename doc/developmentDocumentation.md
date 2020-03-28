@@ -8,13 +8,15 @@ This documentation will go over, from start to finish, how to create a Code Assa
 <details>
 <summary>Steps</summary>
 
- 1. [Choose A Language]()
- 1. [Get The Alias List]()
- 1. [Start Coding]()
- 1. [Place Into A File (Part 1)]()
- 1. [Escape Special Characters]()
- 1. [Place Into A File (Part 2)]()
- 1. [Push Files]()
+ 1. [Choose A Language](https://github.com/Abesuden/Software-Engineering/blob/master/doc/developmentDocumentation.md#choose-a-language)
+ 1. [Get The Alias List](https://github.com/Abesuden/Software-Engineering/blob/master/doc/developmentDocumentation.md#get-the-alias-list)
+ 1. [Start Coding](https://github.com/Abesuden/Software-Engineering/blob/master/doc/developmentDocumentation.md#start-coding)
+ 1. [Place Into A File (Part 1)](https://github.com/Abesuden/Software-Engineering/blob/master/doc/developmentDocumentation.md#place-into-a-file-part-1)
+ 1. [Escape Special Characters](https://github.com/Abesuden/Software-Engineering/blob/master/doc/developmentDocumentation.md#escape-special-characters)
+ 1. [Place Into A File (Part 2)](https://github.com/Abesuden/Software-Engineering/blob/master/doc/developmentDocumentation.md#place-into-a-file-part-2)
+ 1. [Push Files](https://github.com/Abesuden/Software-Engineering/blob/master/doc/developmentDocumentation.md#push-files)
+ 1. [Future Steps](https://github.com/Abesuden/Software-Engineering/blob/master/doc/developmentDocumentation.md#future-steps)
+
 
 </details>
 
@@ -134,7 +136,7 @@ float varName = 3.14;
 
 ## Escape Special Characters
 
-The way that CA works requires the language's syntax to pass through two different Windows 10 specific languages. Thus, the language you have coded with the alias list will need to be escaped twice! Below, there is an example of a line of code in C that will need to be escaped. However, do not worry, I have written a python program that should effectively do this for us. You can find it [here]()
+The way that CA works requires the language's syntax to pass through two different Windows 10 specific languages. Thus, the language you have coded with the alias list will need to be escaped twice! Below, there is an example of a line of code in C that will need to be escaped. However, do not worry, I have written a python program that should effectively do this for us. You can find it [here](https://github.com/Abesuden/Software-Engineering/tree/master/developerSupportSrc)
 
 ```
 scanf ("%s", &inputVar);
@@ -146,7 +148,7 @@ Once the syntax has been run through the program, the line of code should look l
 scanf {(}""%s"", &inputVar{)};
 ```
 
-> There is documentation on *when* and *how* to escape, you can find that [here]().
+> There is documentation on *when* and *how* to escape, you can find that [here](https://github.com/Abesuden/Software-Engineering/blob/master/doc/escapeGuide.md).
 
 ## Place Into A File (Part 2)
 
