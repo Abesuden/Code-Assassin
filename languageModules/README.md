@@ -48,6 +48,7 @@ This project is licensed under the [MIT](LICENSE.md) Creative Commons License - 
     * *C*
     * *Python*
     * *Java*
+    * *Swift*
     * *Assembly x86*
 * [@Josh Lowy](https://github.com/DLJ42) (**Solutions Architect**)
     * *GO*
