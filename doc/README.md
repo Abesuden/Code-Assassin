@@ -5,12 +5,13 @@ Software Engineering project documentation will be found here, such as:
 ```
 Project Proposal
 IEEE SRS
+Development Documentation
+Escape Guide
 ```
 
 ## Progress
 
 Follow the current stage of the project [here](https://github.com/Abesuden/Software-Engineering/projects/1).
-
 
 ## Versioning
 
