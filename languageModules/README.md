@@ -49,14 +49,18 @@ This project is licensed under the [MIT](LICENSE.md) Creative Commons License - 
 ## Acknowledgments
 
 * [@Alex Besuden](https://github.com/abesuden) (**Project Manager/Software Engineer**)
-    * *chosen langauge*
+    * *C*
+    * *Python*
+    * *Java*
+    * *Assembly x86*
 * [@Josh Lowy](https://github.com/DLJ42) (**Solutions Architect**)
-    * *chosen langauge*
+    * *GO*
+    * *Rust*
 * [@Donald Thompson](https://github.com/dthompsonii) (**Software Developer**)
-    * *chosen langauge*
+    * *Kotlin*
 * [@Vlad Smirnov](https://github.com/Pr0vlad) (**Software Developer**)
-    * *chosen langauge*
+    * *C#*
 * [@Riley Kollman](https://github.com/kr-1) (**Database Lead**)
-    * *chosen langauge*
+    * *C++*
 * [@Ethan Unkefer](https://github.com/eunkefer) (**Quality Manager**)
-    * *chosen langauge*
+    * *Cobol*
