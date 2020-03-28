@@ -2,10 +2,6 @@
 
 Code Assassin modules are add-on features that allow for a form of pre-transcompiling. Each module allows for a specific language to be used, where the user can have Code Assassine write code in their IDE for them without the user needing to have any knowledge of the language's syntax.
 
-## Progress
-
-Follow the current stage of the project [here](https://github.com/Abesuden/Software-Engineering/projects/1).
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
