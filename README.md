@@ -8,7 +8,7 @@
 [![Sprint1](https://img.shields.io/badge/Sprint1-10%25-yellow.svg)](https://github.com/Abesuden/Software-Engineering/projects/1)
 [![Sprint2](https://img.shields.io/badge/Sprint2-0%25-lightgrey.svg)](https://github.com/Abesuden/Software-Engineering/projects/1)
 
-![Code Assassin Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/Assassin.png)
+![Code Assassin Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/logo.png)
 
 Code Assassin is an assistive program for programmers, where it acts similar to a pre-transcompiler dropping the syntax of the language into the IDE the programmer is coding in. An alias list is used across all languages to unify the syntax, so that any programmer without knowledge of a selected language can code in any supported language.
 
