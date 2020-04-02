@@ -1,3 +1,3 @@
-# Golang Module for CodeAssassin
+# Rust Module for CodeAssassin
 
 
