@@ -39,13 +39,10 @@ do		makes a do while loop
 meth		makes a function or method
 methh		makes a function header
 methc		makes a method or function call
-class		make a new class or structure
-classi		makes an inner class
 syscall		allows for a system call
 pause		causes system to wait for the set time
 com		single line comment
 comm		multiple line comment
 cright		comments a copyright line
 docs		makes documents for methods or functions
-
 ```
