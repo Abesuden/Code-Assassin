@@ -37,13 +37,13 @@ def clearScreen():
 while (True):
     # read in string
     print("Enter code here:")
-    codeIn = input(">> ")
+    codeIn = raw_input(">> ")
     while not codeIn:
         clearScreen()
 
         # read in string again
         print("No code was not recorded, please re-enter code here:")
-        codeIn = input(">> ")
+        codeIn = raw_input(">> ")
 
     # convert the code string
     codeOut = ""
@@ -57,7 +57,7 @@ while (True):
     ###pyperclip.copy(codeOut)
     print("")
     print("")
-    tempIn = input("Press ENTER to continue...")
+    tempIn = raw_input("Press ENTER to continue...")
     if tempIn == "exit" or tempIn == "q":
         break
     clearScreen()
