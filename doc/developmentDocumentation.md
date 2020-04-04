@@ -1,6 +1,6 @@
 # Development Documentation
 
-[![Documentation Completion](https://img.shields.io/badge/DocumentationCompletion-75%25-1abc9c.svg)](https://github.com/NLPLOGIX-ORG/miller-revit/graphs/commit-activity)
+[![Documentation Completion](https://img.shields.io/badge/DocumentationCompletion-76%25-1abc9c.svg)](https://github.com/NLPLOGIX-ORG/miller-revit/graphs/commit-activity)
 
 
 This documentation will go over, from start to finish, how to create a Code Assassin module for a new programming language.
@@ -103,9 +103,9 @@ languageName_part1.md
 
 ### Document Format
 
-```
+````
 **main**
-\`\`\`
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -115,34 +115,34 @@ languageName_part1.md
 int main (void) {
      return 0;
 }
-\`\`\`
+```
 
 **import**
-\`\`\`
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
 #include <stdbool.h>
-\`\`\`
+```
 
 **vari**
-\`\`\`
+```
 int varName = 5;
-\`\`\`
+```
 
 **varc**
-\`\`\`
+```
 char varName = 'Z';
-\`\`\`
+```
 
 **varf**
-\`\`\`
+```
 float varName = 3.14;
-\`\`\`
+```
 
 ...
-```
+````
 
 ## Escape Special Characters
 
@@ -172,9 +172,9 @@ languageName_part2.md
 
 ### Document Format
 
-```
+````
 **main**
-\`\`\`
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -184,34 +184,34 @@ languageName_part2.md
 int main {(}void{)} {{}
      return 0;
 {}}
-\`\`\`
+```
 
 **import**
-\`\`\`
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
 #include <stdbool.h>
-\`\`\`
+```
 
 **vari**
-\`\`\`
+```
 int varName = 5;
-\`\`\`
+```
 
 **varc**
-\`\`\`
+```
 char varName = 'Z';
-\`\`\`
+```
 
 **varf**
-\`\`\`
+```
 float varName = 3.14;
-\`\`\`
+```
 
 ...
-```
+````
 
 ## Push Files
 
