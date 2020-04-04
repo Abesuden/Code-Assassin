@@ -105,6 +105,7 @@ languageName_part1.md
 
 ```
 **main**
+\`\`\`
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -114,22 +115,31 @@ languageName_part1.md
 int main (void) {
      return 0;
 }
+\`\`\`
 
 **import**
+\`\`\`
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
 #include <stdbool.h>
+\`\`\`
 
 **vari**
+\`\`\`
 int varName = 5;
+\`\`\`
 
 **varc**
+\`\`\`
 char varName = 'Z';
+\`\`\`
 
 **varf**
+\`\`\`
 float varName = 3.14;
+\`\`\`
 
 ...
 ```
@@ -164,6 +174,7 @@ languageName_part2.md
 
 ```
 **main**
+\`\`\`
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -173,22 +184,31 @@ languageName_part2.md
 int main {(}void{)} {{}
      return 0;
 {}}
+\`\`\`
 
 **import**
+\`\`\`
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
 #include <stdbool.h>
+\`\`\`
 
 **vari**
+\`\`\`
 int varName = 5;
+\`\`\`
 
 **varc**
+\`\`\`
 char varName = 'Z';
+\`\`\`
 
 **varf**
+\`\`\`
 float varName = 3.14;
+\`\`\`
 
 ...
 ```
