@@ -327,7 +327,7 @@ Author: firstName lastName
 Date: Jan 1, 2020
 >>> Discription of program
 
-copyright © 2020
+copyright (c) 2020
 """
 ```
 
