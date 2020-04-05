@@ -198,7 +198,8 @@ if %input%==scanf (
 if %input%==if (
      echo shl.SendKeys "if {(}var1 < var2{)} {{}" >> ref.vbs
      echo shl.SendKeys "{enter}" >> ref.vbs
-     echo shl.SendKeys "CODE GOES HERE" >> ref.vbs
+     echo shl.SendKeys "  // code goes here" >> ref.vbs
+     echo shl.SendKeys "{enter}" >> ref.vbs
      echo shl.SendKeys "{enter}" >> ref.vbs
      echo shl.SendKeys "{}}" >> ref.vbs
      echo shl.SendKeys "{enter}" >> ref.vbs
@@ -207,11 +208,13 @@ if %input%==if (
 if %input%==ife (
      echo shl.SendKeys "if {(}var1 < var2{)} {{}" >> ref.vbs
      echo shl.SendKeys "{enter}" >> ref.vbs
-     echo shl.SendKeys "CODE GOES HERE" >> ref.vbs
+     echo shl.SendKeys "  // code goes here" >> ref.vbs
+     echo shl.SendKeys "{enter}" >> ref.vbs
      echo shl.SendKeys "{enter}" >> ref.vbs
      echo shl.SendKeys "{}} else {{}" >> ref.vbs
      echo shl.SendKeys "{enter}" >> ref.vbs
-     echo shl.SendKeys "CODE GOES HERE" >> ref.vbs
+     echo shl.SendKeys "  // code goes here" >> ref.vbs
+     echo shl.SendKeys "{enter}" >> ref.vbs
      echo shl.SendKeys "{enter}" >> ref.vbs
      echo shl.SendKeys "{}}" >> ref.vbs
      echo shl.SendKeys "{enter}" >> ref.vbs
@@ -220,7 +223,8 @@ if %input%==ife (
 if %input%==eif (
      echo shl.SendKeys "else if {(}var1 < var2{)} {{}" >> ref.vbs
      echo shl.SendKeys "{enter}" >> ref.vbs
-     echo shl.SendKeys "CODE GOES HERE" >> ref.vbs
+     echo shl.SendKeys "  // code goes here" >> ref.vbs
+     echo shl.SendKeys "{enter}" >> ref.vbs
      echo shl.SendKeys "{enter}" >> ref.vbs
      echo shl.SendKeys "{}}" >> ref.vbs
      echo shl.SendKeys "{enter}" >> ref.vbs
