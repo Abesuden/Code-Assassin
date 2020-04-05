@@ -157,7 +157,8 @@ scanf ("%d %d", &var1, &var2);
 
 ```
 if (var1 < var2) {
-CODE GOES HERE
+  // code goes here
+  
 }
 ```
 
@@ -165,9 +166,11 @@ CODE GOES HERE
 
 ```
 if (var1 < var2) {
-CODE GOES HERE
+  // code goes here
+  
 } else {
-CODE GOES HERE
+  // code goes here
+  
 }
 ```
 
@@ -175,7 +178,8 @@ CODE GOES HERE
 
 ```
 else if (var1 < var2) {
-CODE GOES HERE
+  // code goes here
+  
 }
 ```
 
