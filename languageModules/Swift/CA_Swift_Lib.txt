@@ -1,0 +1,62 @@
+===========================
+  ::Currently Supported::
+===========================
+
+----------	-------------
+ Command	 Instruction
+----------	-------------
+main		builds primary code needed
+import		imports or includes library files
+var		creates a variable and assigns type
+vari		creates an integer variable
+varc		creates a character variable
+varf		creates a float variable
+vard		creates a larger float variable
+varb		creates a bool variable
+vars		creates a string variable
+const		creates an constant and then assigns type
+consts		creates a string constant
+consti		creates a contstant integer variable
+constc		creates a constant character variable
+constf		creates a constant float variable
+constd		creates a constant larger float variable
+constb		creates a constant bool
+casts		casts variable to the type string
+casti		casts variable to the type integer
+castd		casts variable to the type double
+castf		casts variable to the type float
+castb		casts variable to the type boolean
+castc		casts variable to the type character
+arrcn		creates a constant array for integers
+arri		creates a variable length array of integers
+arrc		creates a variable length array of characters
+arrf		creates a variable length array of floats
+arrd		creates a variable length array of doubles
+math		gives an example of a mathmatical statement
+print		prints text to the screen
+printf		formats the text printed to screen
+scan		scans for user input
+scanf		scans with a format for user input
+if		use to compare values
+ife		makes an if else statement
+eif		adds to an if stamtent to make an if else
+and		places the logical AND operator
+or		places the logical OR operator
+switch		makes a switch case statement
+scase		adds a case statement
+for		makes a for loop
+foreach	makes a for each loop
+while		makes a while loop
+do		makes a do while loop
+meth		makes a function or method
+methh		makes an equivalent function header statement
+methc		makes a method or function call
+class		make a new class or structure
+classi		makes an inner class
+-syscall		not supported at this time
+pause		causes system to wait for the set time
+com		single line comment
+comm		multiple line comment
+cright		comments a copyright line
+docs		makes documents for methods or functions
+-jump		not supported at this time
