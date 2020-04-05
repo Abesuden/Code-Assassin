@@ -1,0 +1,10 @@
+===========================
+:: Information for Swift ::
+===========================
++ Procedural Programming Language
++ Object Oriented Programming Language
++ Compiler: Swift Compiler
+
+----------------------------
+:: Rules of use for Swift ::
+----------------------------
