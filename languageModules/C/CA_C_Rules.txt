@@ -1,0 +1,10 @@
+===========================
+  :: Information for C ::
+===========================
++ Procedural Programming Language
++ NOT Object Oriented Programming Language
++ Compiler: GCC
+
+----------------------------
+  :: Rules of use for C ::
+----------------------------
