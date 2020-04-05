@@ -48,7 +48,7 @@ double varName = 3.14;
 **varb**
 
 ```
-bool varName = true;
+bool varName = 1;
 ```
 
 **vars**
@@ -223,6 +223,56 @@ int count = 0;
 do {
   count++;
 } while ( count < 10 );
+```
+
+**meth**
+
+```
+void methodName (int argOne, int argTwo);
+
+void methodName (int parameterOne, int parameterTwo) {
+  // enter code here
+
+  return void;
+}
+```
+> use sendkey, after header, to go to bottom of IDE and then print method
+
+**methh**
+
+```
+void methodName (int parameterOne, int parameterTwo);
+```
+
+**methc**
+
+```
+methodName (argOne, argTwo);
+```
+
+**class**
+
+```
+struct ClassName
+{
+   int    varInt;
+   double varDouble;
+   char   varChar;
+   char   varString[25];
+   bool   isVar;
+};
+```
+
+**classc**
+
+```
+struct ClassName ClassObject;
+
+ClassObject.varInt        = 42;
+ClassObject.varDouble     = 3.14;
+ClassObject.varChar       = 'c';
+ClassObject.varString[25] = "Hello World!";
+ClassObject.isVar         = 1;
 ```
 
 **syscall**
