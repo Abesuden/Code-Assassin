@@ -1,0 +1,10 @@
+============================
+ :: Information for Java ::
+============================
++ Procedural Programming Language
++ Object Oriented Programming Language
++ Compiler: JAVAC
+
+-----------------------------
+ :: Rules of use for Java ::
+-----------------------------
