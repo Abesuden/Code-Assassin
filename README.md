@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/badge/Issues-0-1abc9c.svg)](https://github.com/abesuden/software-engineering/issues)
 
 [![ProjectCompletion](https://img.shields.io/badge/ProjectCompletion-5%25-yellow.svg)](https://github.com/abesuden/software-engineering)
-[![Sprint1](https://img.shields.io/badge/Sprint1-10%25-yellow.svg)](https://github.com/Abesuden/Software-Engineering/projects/1)
+[![Sprint1](https://img.shields.io/badge/Sprint1-60%25-yellow.svg)](https://github.com/Abesuden/Software-Engineering/projects/1)
 [![Sprint2](https://img.shields.io/badge/Sprint2-0%25-lightgrey.svg)](https://github.com/Abesuden/Software-Engineering/projects/1)
 
 ![Code Assassin Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/logo.png)
