@@ -24,36 +24,53 @@
 	)
 	
 **vari**
-	varName := 0
+	var varName int
 	
 **varc**
-	varName := 'Z'
+	// runes are the default data type used in Go.
+	// runes are ints that are encoded in UTF-8 format
+	var varName rune
 	
 **varf**
-	varName := 0.0
+	var varName float32
 
 **vard**
-	varName := 0.0
+	var varName float64
 
 **varb**
-	varName := true
+	var varName bool
 	
 **vars**
-	varName := ""
+	var varName string
 	
 **consti**
+	const varName int = 0
 **constc**
+	const varName rune = ‘Z’
 **constf**
+	const varName float32 = 0.0
 **constd**
+	const varName float64 = 0.0
 **constb**
+	const varName bool = true
 **arrcn**
-**arri**		
+	// feature not available in GoLang
+**arri**
+	var varName []int
 **arrc**
+	var varName []int
 **arrf**
+	var varName []float32
 **arrd**
+	var varName []float64
 **print**
+	// must import the “fmt” package in order to use print
+	fmt.println(“[INSERT TEXT HERE]”)
 **printf**
+	// must import the “fmt” package in order to use printf
+	fmt.printf(“[INSERT TEXT HERE] %d” 5)
 **scan**
+
 **scanf**
 **if**		
 **ife**
