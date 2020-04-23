@@ -1,6 +1,10 @@
-# Software Engineering Project (**Code Assassin**)
+# Code Assassin Source Code
 
-Code Assassin is an assistive program for programmers, where it acts similar to a pre-transcompiler dropping the syntax of the language into the IDE the programmer is coding in. An alias list is used across all languages to unify the syntax, so that any programmer without knowledge of a selected language can code in any language.
+The core module can be found within this directory.
+
+```
+CoreModule.exe
+```
 
 ## Progress
 
