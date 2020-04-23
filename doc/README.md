@@ -1,4 +1,4 @@
-# Software Engineering Project (**Code Assassin**)
+# Code Assassin Documentation
 
 Software Engineering project documentation will be found here, such as:
 
