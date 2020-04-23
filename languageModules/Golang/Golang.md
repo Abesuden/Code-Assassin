@@ -27,7 +27,7 @@
 	var varName int
 	
 **varc**
-	// runes are the default data type used in Go.
+	// rune is the default data type used for characters in Go.
 	// runes are ints that are encoded in UTF-8 format
 	var varName rune
 	
