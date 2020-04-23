@@ -3,7 +3,7 @@
 Below are the images of Code Assassin
 
 ## Program Icon
-![Icon](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/assassin.ico)
+![Icon](https://github.com/Abesuden/Software-Engineering/blob/master/img/assassin.ico)
 
 ## Code Assassin Logo
-![Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/logo.png)
+![Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/logo.png)
