@@ -24,7 +24,7 @@
 	)
 	
 **vari**
-	var varName int
+	var varName int = 0
 	
 **varc**
 	// rune is the default data type used for characters in Go.
