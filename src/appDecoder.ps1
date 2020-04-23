@@ -12,4 +12,3 @@ while($txv -match "cmd"){
     sleep -Milliseconds 200 
     echo $txv > ux_ignore.txt
 }
-echo $txv
