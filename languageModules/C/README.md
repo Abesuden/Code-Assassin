@@ -1,5 +1,6 @@
 # C Module for CodeAssassin
-![Progress](https://img.shields.io/badge/Module-completed-brightgreen.svg)
+![Progress](https://img.shields.io/badge/Module-finalized-brightgreen.svg)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-informational.svg)](https://github.com/Abesuden/Software-Engineering/commits/master/languageModules/C/README.md)
 
 ![C Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/C_logo.png)
 
