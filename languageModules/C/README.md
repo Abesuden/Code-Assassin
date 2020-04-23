@@ -1,4 +1,5 @@
 # C Module for CodeAssassin
+[![Progress](https://img.shields.io/badge/Module-completed-brightgreen.svg)]
 ![C Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/C_logo.png)
 
 ## The following aliases are supported:
