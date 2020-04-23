@@ -1,4 +1,7 @@
 # Java Module for CodeAssassin
+![Progress](https://img.shields.io/badge/Module-finalized-brightgreen.svg)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-informational.svg)](https://github.com/Abesuden/Software-Engineering/commits/master/languageModules/Java/README.md)
+
 ![Java Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/Java_logo.png)
 
 ## The following aliases are supported:
