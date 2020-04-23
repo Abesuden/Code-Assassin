@@ -1,4 +1,4 @@
-# Software Engineering Project (**Code Assassin**)
+# Code Assassin Language Modules
 
 [![C](https://img.shields.io/badge/C-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/C)
 [![C#](https://img.shields.io/badge/C%23-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/CS)
