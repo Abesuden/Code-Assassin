@@ -1,7 +1,7 @@
 # Software Engineering Project (**Code Assassin**)
 
 [![C](https://img.shields.io/badge/C-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/C)
-[![C#](https://img.shields.io/badge/C&num-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/CS)
+[![C#](https://img.shields.io/badge/C%23-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/CS)
 [![C++](https://img.shields.io/badge/C++-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Cpp)
 [![Java](https://img.shields.io/badge/Java-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Java)
 [![Kotlin](https://img.shields.io/badge/Kotlin-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Kotlin)
