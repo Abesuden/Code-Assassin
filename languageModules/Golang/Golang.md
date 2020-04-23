@@ -41,4 +41,37 @@
 **vars**
 	varName := ""
 	
-**
+**consti**
+**constc**
+**constf**
+**constd**
+**constb**
+**arrcn**
+**arri**		
+**arrc**
+**arrf**
+**arrd**
+**print**
+**printf**
+**scan**
+**scanf**
+**if**		
+**ife**
+**eif**
+**switch**
+**for**		
+**foreach**
+**while**		
+**do**
+**meth**
+**-methh**		makes a function header
+**-methc**		makes a method or function call
+**-class**		make a new class or structure
+**-classi**		makes an inner class
+**syscall**		allows for a system call
+**pause**		causes system to wait for the set time
+**com**		single line comment
+**comm**		multiple line comment
+**cright**		comments a copyright line
+**docs**		makes documents for methods or functions
+**jump	**	will make a goto statement with a lable
