@@ -29,19 +29,19 @@
 **varc**
 	// rune is the default data type used for characters in Go.
 	// runes are ints that are encoded in UTF-8 format
-	var varName rune
+	var varName rune = ‘Z’
 	
 **varf**
-	var varName float32
+	var varName float32 = 0.0
 
 **vard**
-	var varName float64
+	var varName float64 = 0.0
 
 **varb**
-	var varName bool
+	var varName bool = true
 	
 **vars**
-	var varName string
+	var varName string = “text goes here”
 	
 **consti**
 	const varName int = 0
@@ -56,13 +56,13 @@
 **arrcn**
 	// feature not available in GoLang
 **arri**
-	var varName []int
+	varName := []int{1, 2, 3}
 **arrc**
-	var varName []int
+	varName := []rune{‘a’, ‘b’, ‘c’}
 **arrf**
-	var varName []float32
+	varName := []float32{1.1, 2.2, 3.3}
 **arrd**
-	var varName []float64
+	varName := []float64{1.1, 2.2, 3.3}
 **print**
 	// must import the “fmt” package in order to use print
 	fmt.println(“[INSERT TEXT HERE]”)
