@@ -3,12 +3,12 @@
 The core module and other dependency programs can be found within this directory.
 
 ```
-CoreModule.exe
+CoreProcess.exe
 appDecoder.ps1
 ```
 ## Description
 
-The **Core Module** is the main program that utilizes the language modules to perform the assitive programing with any integrated development environment (*IDE*). The `appDecoder.ps1` is a dependency you will need to have in the same directory as the **Core Module**.
+The **Core Process** is the main program that utilizes the language modules to perform the assitive programing with any integrated development environment (*IDE*). The `appDecoder.ps1` is a dependency you will need to have in the same directory as the **Core Process**.
 
 ## Progress
 
