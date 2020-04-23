@@ -1,12 +1,12 @@
 # Software Engineering Project (**Code Assassin**)
 
-[![C](https://img.shields.io/badge/C-supported-blueviolet.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/C)
-[![CS](https://img.shields.io/badge/CS-supported-blueviolet.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/CS)
-[![Cpp](https://img.shields.io/badge/Cpp-supported-blueviolet.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Cpp)
-[![Java](https://img.shields.io/badge/Java-supported-blueviolet.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Java)
-[![Kotlin](https://img.shields.io/badge/Kotlin-supported-blueviolet.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Kotlin)
-[![Python](https://img.shields.io/badge/Python-supported-blueviolet.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Python)
-[![Swift](https://img.shields.io/badge/Swift-supported-blueviolet.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Swift)
+[![C](https://img.shields.io/badge/C-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/C)
+[![CS](https://img.shields.io/badge/CS-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/CS)
+[![Cpp](https://img.shields.io/badge/Cpp-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Cpp)
+[![Java](https://img.shields.io/badge/Java-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Java)
+[![Kotlin](https://img.shields.io/badge/Kotlin-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Kotlin)
+[![Python](https://img.shields.io/badge/Python-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Python)
+[![Swift](https://img.shields.io/badge/Swift-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Swift)
 
 Code Assassin modules are add-on features that allow for a form of pre-transcompiling. Each module allows for a specific language to be used, where the user can have Code Assassine write code in their IDE for them without the user needing to have any knowledge of the language's syntax.
 
