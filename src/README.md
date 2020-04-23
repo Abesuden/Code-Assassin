@@ -1,6 +1,14 @@
-# Software Engineering Project (**Code Assassin**)
+# Code Assassin Source Code
 
-Code Assassin is an assistive program for programmers, where it acts similar to a pre-transcompiler dropping the syntax of the language into the IDE the programmer is coding in. An alias list is used across all languages to unify the syntax, so that any programmer without knowledge of a selected language can code in any language.
+The core module and other dependency programs can be found within this directory.
+
+```
+CoreModule.exe
+appDecoder.ps1
+```
+## Description
+
+The **Core Module** is the main program that utilizes the language modules to perform the assitive programing with any integrated development environment (*IDE*). The `appDecoder.ps1` is a dependency you will need to have in the same directory as the **Core Module**.
 
 ## Progress
 
