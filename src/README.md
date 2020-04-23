@@ -1,5 +1,8 @@
 # Code Assassin Source Code
 
+[![Programs](https://img.shields.io/badge/Programs-1-informational.svg)](https://github.com/Abesuden/Software-Engineering/blob/master/src/CoreProcess.exe)
+[![Dependencies](https://img.shields.io/badge/Dependencies-1-informational.svg)](https://github.com/Abesuden/Software-Engineering/blob/master/src/appDecoder.ps1)
+
 The core module and other dependency programs can be found within this directory.
 
 ```
