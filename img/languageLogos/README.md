@@ -16,3 +16,5 @@ Find how the images are displayed below and how they compare.
 ![Swift5 Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/Swift5_logo.png)
 ## Kotlin Logo
 ![Kotlin Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/Kotlin_logo.png)
+## Cobol Logo
+![Cobol Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/Cobol_logo.png)
