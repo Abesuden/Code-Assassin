@@ -1,0 +1,10 @@
+===========================
+ :: Information for C# ::
+===========================
++ Procedural Programming Language
++ Object Oriented Programming Language
++ Compiler: .net
+
+----------------------------
+ :: Rules of use for C# ::
+----------------------------

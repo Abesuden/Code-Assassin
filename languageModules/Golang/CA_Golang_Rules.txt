@@ -1,0 +1,10 @@
+==============================
+ :: Information for Golang ::
+==============================
++ Procedural Programming Language
++ Object Oriented Programming Language
++ Compiler: compile
+
+-------------------------------
+ :: Rules of use for Golang ::
+-------------------------------

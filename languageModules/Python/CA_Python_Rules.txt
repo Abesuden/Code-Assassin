@@ -1,0 +1,10 @@
+==============================
+ :: Information for Python ::
+==============================
++ Procedural Programming Language
++ Object Oriented Programming Language
++ Compiler: python
+
+-------------------------------
+ :: Rules of use for Python ::
+-------------------------------

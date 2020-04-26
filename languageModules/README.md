@@ -7,6 +7,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Kotlin)
 [![Python](https://img.shields.io/badge/Python-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Python)
 [![Swift](https://img.shields.io/badge/Swift-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Swift)
+[![Javascript](https://img.shields.io/badge/Javascript-supported-informational.svg)](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules/Javascript)
 
 Code Assassin modules are add-on features that allow for a form of pre-transcompiling. Each module allows for a specific language to be used, where the user can have Code Assassine write code in their IDE for them without the user needing to have any knowledge of the language's syntax.
 
@@ -15,14 +16,15 @@ Code Assassin modules are add-on features that allow for a form of pre-transcomp
  - C
  - C++
  - Golang
- - Java
- - Kotlin
 <details>
 <summary><strong>-more-</strong></summary>
  
+ - Java
+ - Kotlin
  - Python
  - Rust
  - Swift
+ - Javascript
  
 </details>
 

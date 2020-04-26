@@ -1,9 +1,3 @@
-# Language-specific concerns/issues
-* handling global variables?
-* Golang decalares and inits variable in one statement
-* diff int types? e.g. int32, int64, long, etc..
-
-
 **main**
 
 ```
@@ -318,13 +312,13 @@ time.Sleep(5 * time.Seconds)
 ```
 /*
  * This is a multiple line comment
-*/
+ ```*/
 ```
 
 **cright**
 
 ```
-/*
+/**
  * @author FirstName LastName
  * @Date MM DD, YYYY
  * >>> Discription of code here

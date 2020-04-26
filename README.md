@@ -4,9 +4,9 @@
 [![Maintenance](https://img.shields.io/badge/Maintained-yes-brightgreen.svg)](https://github.com/abesuden/software-engineering/graphs/commit-activity)
 [![Issues](https://img.shields.io/badge/Issues-0-1abc9c.svg)](https://github.com/abesuden/software-engineering/issues)
 
-[![ProjectCompletion](https://img.shields.io/badge/ProjectCompletion-60%25-yellow.svg)](https://github.com/abesuden/software-engineering)
-[![Sprint1](https://img.shields.io/badge/Sprint1-90%25-brightgreen.svg)](https://github.com/Abesuden/Software-Engineering/projects/1)
-[![Sprint2](https://img.shields.io/badge/Sprint2-15%25-yellow.svg)](https://github.com/Abesuden/Software-Engineering/projects/1)
+[![ProjectCompletion](https://img.shields.io/badge/ProjectCompletion-90%25-1abc9c.svg)](https://github.com/abesuden/software-engineering)
+[![Sprint1](https://img.shields.io/badge/Sprint1-95%25-brightgreen.svg)](https://github.com/Abesuden/Software-Engineering/projects/1)
+[![Sprint2](https://img.shields.io/badge/Sprint2-85%25-1abc9c.svg)](https://github.com/Abesuden/Software-Engineering/projects/1)
 [![Sprint3](https://img.shields.io/badge/Sprint3-100%25-brightgreen.svg)](https://github.com/Abesuden/Software-Engineering/projects/1)
 
 ![Code Assassin Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/logo.png)
