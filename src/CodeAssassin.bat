@@ -96,7 +96,10 @@ goto d
 ##############################################################################
 :d
 if %language%==languages (
+ cls
  type LangLib.txt
+ pause
+ goto b
 )
 if %language%==exit ( 
  goto z
