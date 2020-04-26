@@ -1,0 +1,17 @@
+==========================================
+::Currently Supported Computer Languages::
+==========================================
+
+----------	---------
+ Language	 Command
+----------	---------
++ C.............{c}
++ CS............{cs}
++ Cpp...........{cpp}
++ Kotlin........{kot}
++ Golang........{go}
++ Python........{py}
++ Rust..........{rust}
++ Swift.........{swift}
++ Javascript....{js}
++ Cobol.........{cob}
