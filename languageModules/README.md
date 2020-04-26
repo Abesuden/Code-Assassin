@@ -24,6 +24,7 @@ Code Assassin modules are add-on features that allow for a form of pre-transcomp
  - Python
  - Rust
  - Swift
+ - Javascript
  
 </details>
 
