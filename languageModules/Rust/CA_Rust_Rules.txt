@@ -1,0 +1,10 @@
+==============================
+ :: Information for Rust ::
+==============================
++ Procedural Programming Language
++ Object Oriented Programming Language
++ Compiler: cargo
+
+-------------------------------
+ :: Rules of use for Rust ::
+-------------------------------
