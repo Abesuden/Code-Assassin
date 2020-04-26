@@ -1,17 +1,21 @@
 # Code Assassin Source Code
 
 [![Programs](https://img.shields.io/badge/Programs-1-informational.svg)](https://github.com/Abesuden/Software-Engineering/blob/master/src/CoreProcess.exe)
-[![Dependencies](https://img.shields.io/badge/Dependencies-1-informational.svg)](https://github.com/Abesuden/Software-Engineering/blob/master/src/appDecoder.ps1)
+[![Dependencies](https://img.shields.io/badge/Dependencies-3-informational.svg)](https://github.com/Abesuden/Software-Engineering/blob/master/src/appDecoder.ps1)
 
 The core module and other dependency programs can be found within this directory.
 
 ```
+CodeAssassin.bat
 CoreProcess.exe
 appDecoder.ps1
+LangLib.txt
 ```
 ## Description
 
-The **Core Process** is the main program that utilizes the language modules to perform the assitive programing with any integrated development environment (*IDE*). The `appDecoder.ps1` is a dependency you will need to have in the same directory as the **Core Process**.
+The `CodeAssassin.bat` is the program you will run to kick off the program. Everything else will be run and handled by the initial `CodeAssassin.bat` program. The language library is what will be displayed to the user and will show what lanugages are supported.
+
+The **Core Process** is a core program that utilizes the language modules to perform the assitive programing with any integrated development environment (*IDE*). The `appDecoder.ps1` is a dependency you will need to have in the same directory as the **Core Process**.
 
 ## Progress
 
