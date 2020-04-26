@@ -124,7 +124,8 @@ cout << ""Hello"";
 **printf**
 
 ```
-printf{(}""Hello {%%}d"", 0{)};
+int numA = 5, numB = 4;
+cout << "The sum is: " << numA + numB << endl;
 ```
 
 **scan**
