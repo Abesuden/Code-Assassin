@@ -1,0 +1,10 @@
+===========================
+ :: Information for Cpp ::
+===========================
++ Procedural Programming Language
++ Object Oriented Programming Language
++ Compiler: GPP
+
+----------------------------
+ :: Rules of use for Cpp ::
+----------------------------
