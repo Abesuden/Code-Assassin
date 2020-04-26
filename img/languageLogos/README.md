@@ -18,3 +18,5 @@ Find how the images are displayed below and how they compare.
 ![Kotlin Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/Kotlin_logo.png)
 ## Cobol Logo
 ![Cobol Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/Cobol_logo.png)
+## Javascript Logo
+![Javascript Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/Javascript_logo.png)
