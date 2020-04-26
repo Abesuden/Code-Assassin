@@ -5,6 +5,7 @@
  
 
 **main**
+```
 	package main
 	import ( 
     "fmt"
@@ -13,10 +14,11 @@
     "time"
 	)
 	func main() { 
-		// code goes here  
+		// code goes here 
 	}
-	
+```	
 **import**
+```
 	package main
 	import (
 	"fmt"
@@ -24,13 +26,13 @@
 	"strings"
 	"time"
 	)
-	
+```	
 **vari**
 	var varName int = 0
 	
 **varc**
 	// rune is the default data type used for characters in Go.
-	// runes are ints that are encoded in UTF-8 format
+	// runes are int32s that are encoded in UTF-8 format
 	var varName rune = ‘Z’
 	
 **varf**
@@ -130,18 +132,73 @@
 		}
 	}
 **meth**
-**-methh**		makes a function header
-**-methc**		makes a method or function call
+```
+
+	func add(x int, y int) int {
+		return x + y
+	}
+
+	func main() {
+		fmt.Println(add(42, 13))
+	}
+```
+**-methh**
+```
+	// feature not available in Golang
+```
+**-methc**
+```
+	var arg1 = 4
+	var arg2 = 8
+	methodName(arg1, arg2)
+```
 **-class**		make a new class or structure
+```
+	type person struct {
+		name string
+		age int
+	}
+
+```
 **-classi**		makes an inner class
-**syscall**		allows for a system call
-**pause**		causes system to wait for the set time
+```
+	type person struct {
+		name string
+		age int
+	}
+	type employee struct {
+		info person
+		workplace string
+		boss string		
+	}
+```
+**syscall**
+```
+	// must import "os/exec"
+	import "os/exec"
+
+	exec.Command("echo", "hello world")
+```
+**pause**
+```
+	// must import "time"
+	import "time"
+	time.Sleep(5 * time.Seconds)
+```
 **com**
+```
 	// comment goes here
+```
 **comm**
+```
 	/*
 	multiline comment goes here
 	*/
-**cright**		comments a copyright line
-**docs**		makes documents for methods or functions
-**jump	**	will make a goto statement with a lable
+```
+**cright**
+```
+```
+**docs**
+```
+```
+**jump**
