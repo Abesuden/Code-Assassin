@@ -16,11 +16,11 @@ Code Assassin modules are add-on features that allow for a form of pre-transcomp
  - C
  - C++
  - Golang
- - Java
- - Kotlin
 <details>
 <summary><strong>-more-</strong></summary>
  
+ - Java
+ - Kotlin
  - Python
  - Rust
  - Swift
