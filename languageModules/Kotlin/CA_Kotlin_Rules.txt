@@ -1,0 +1,10 @@
+==============================
+ :: Information for Kotlin ::
+==============================
++ Procedural Programming Language
++ NOT Object Oriented Programming Language
++ Compiler: program.kt
+
+-------------------------------
+ :: Rules of use for Kotlin ::
+-------------------------------
