@@ -1,6 +1,6 @@
 # CS Module for CodeAssassin
 ![Progress](https://img.shields.io/badge/Module-inProgress-grey.svg)
-[![Version](https://img.shields.io/badge/Version-v0.0.1-informational.svg)](https://github.com/Abesuden/Software-Engineering/commits/master/languageModules/CS/README.md)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-informational.svg)](https://github.com/Abesuden/Software-Engineering/commits/master/languageModules/CS/README.md)
 
 ![CS Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/CS_logo.png)
 
