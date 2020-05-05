@@ -11,11 +11,11 @@ Escape Guide
 
 ## Progress
 
-Follow the current stage of the project [here](https://github.com/Abesuden/Software-Engineering/projects/1).
+Follow the current stage of the project [here](https://github.com/Abesuden/Code-Assassin/projects/1).
 
 ## Versioning
 
-We use [Git](https://git-scm.com/doc) for versioning. For the versions available, see the [tags on this repository](https://github.com/software-engineering/tags).
+We use [Git](https://git-scm.com/doc) for versioning. For the versions available, see the [tags on this repository](https://github.com/Code-Assassin/tags).
 
 ## Authors
 
@@ -36,7 +36,7 @@ We use [Git](https://git-scm.com/doc) for versioning. For the versions available
 * **Ethan Unkefer** - [@Ethan Unkefer](https://github.com/eunkefer)
    * *SRS*
 
-See also the list of [contributors](https://github.com/abesuden/software-engineering/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/abesuden/Code-Assassin/contributors) who participated in this project.
 
 ## License
 
