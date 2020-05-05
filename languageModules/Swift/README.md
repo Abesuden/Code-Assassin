@@ -1,8 +1,8 @@
 # Swift 5 Module for CodeAssassin
 ![Progress](https://img.shields.io/badge/Module-finalized-brightgreen.svg)
-[![Version](https://img.shields.io/badge/Version-v1.0.0-informational.svg)](https://github.com/Abesuden/Software-Engineering/commits/master/languageModules/Swift/README.md)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-informational.svg)](https://github.com/Abesuden/Code-Assassin/commits/master/languageModules/Swift/README.md)
 
-![Swift 5 Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/Swift5_logo.png)
+![Swift 5 Logo](https://github.com/Abesuden/Code-Assassin/blob/master/img/languageLogos/Swift5_logo.png)
 
 ## The following aliases are supported:
 
