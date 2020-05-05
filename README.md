@@ -1,4 +1,4 @@
-# Software Engineering Project (**Code Assassin**)
+# Code Assassin
 
 [![Contributors](https://img.shields.io/badge/Contributors-6-informational.svg)](https://github.com/abesuden/Code-Assassin/contributors)
 [![Maintenance](https://img.shields.io/badge/Maintained-yes-brightgreen.svg)](https://github.com/abesuden/Code-Assassin/graphs/commit-activity)
