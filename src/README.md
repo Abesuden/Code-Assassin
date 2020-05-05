@@ -1,7 +1,7 @@
 # Code Assassin Source Code
 
-[![Programs](https://img.shields.io/badge/Programs-1-informational.svg)](https://github.com/Abesuden/Software-Engineering/blob/master/src/CoreProcess.exe)
-[![Dependencies](https://img.shields.io/badge/Dependencies-3-informational.svg)](https://github.com/Abesuden/Software-Engineering/blob/master/src/appDecoder.ps1)
+[![Programs](https://img.shields.io/badge/Programs-1-informational.svg)](https://github.com/Abesuden/Code-Assassin/blob/master/src/CoreProcess.exe)
+[![Dependencies](https://img.shields.io/badge/Dependencies-3-informational.svg)](https://github.com/Abesuden/Code-Assassin/blob/master/src/appDecoder.ps1)
 
 The core module and other dependency programs can be found within this directory.
 
@@ -19,7 +19,7 @@ The **Core Process** is a core program that utilizes the language modules to per
 
 ## Progress
 
-Follow the current stage of the project [here](https://github.com/Abesuden/Software-Engineering/projects/1).
+Follow the current stage of the project [here](https://github.com/Abesuden/Code-Assassin/projects/1).
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ Pull/download the Code Assassin programs called:
 CoreProcess.exe
 ```
 
-Install all desired language modules found [here](https://github.com/Abesuden/Software-Engineering/tree/master/languageModules)
+Install all desired language modules found [here](https://github.com/Abesuden/Code-Assassin/tree/master/languageModules)
 
 ## Deployment
 
@@ -62,13 +62,13 @@ This program uses language modules in the form of plug and play, where a user ca
 
 ## Versioning
 
-We use [Git](https://git-scm.com/doc) for versioning. For the versions available, see the [tags on this repository](https://github.com/software-engineering/tags).
+We use [Git](https://git-scm.com/doc) for versioning. For the versions available, see the [tags on this repository](https://github.com/Code-Assassin/tags).
 
 ## Authors
 
 * **Alex Besuden** - *Provided README* - [@abesuden](https://github.com/abesuden)
 
-See also the list of [contributors](https://github.com/abesuden/software-engineering/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/abesuden/Code-Assassin/contributors) who participated in this project.
 
 ## License
 
