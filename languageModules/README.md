@@ -37,8 +37,13 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Code Assassin Core Module
+CodeAssassin.bat
+CoreProcess.exe
+appDecoder.ps1
+LangLib.txt
 ```
+
+You can find the instructions on how to pull/download this software [here](https://github.com/abesuden/Code-Assassin/src)).
 
 ### Installing
 
@@ -50,19 +55,9 @@ Pull/download the language files that will be used for the desired programming l
 ~\CodeAssassin\
 ```
 
-## Built With
-
-* [Visual Basic Scripting](https://ss64.com/vb/)
-
-## Versioning
-
-We use [Git](https://git-scm.com/doc) for versioning. For the versions available, see the [tags on this repository](https://github.com/Code-Assassin/tags).
-
 ## Authors
 
 * **Alex Besuden** - *Provided README* - [@abesuden](https://github.com/abesuden)
-
-See also the list of [contributors](https://github.com/abesuden/Code-Assassin/contributors) who participated in this project.
 
 ## License
 
@@ -75,15 +70,15 @@ This project is licensed under the [MIT](LICENSE.md) Creative Commons License - 
     * *Python*
     * *Java*
     * *Swift*
-    * *Assembly x86*
-* [@Josh Lowy](https://github.com/DLJ42) (**Solutions Architect**)
-    * *GO*
     * *Rust*
-* [@Donald Thompson](https://github.com/dthompsonii) (**Software Developer**)
+    * *Assembly x86*
+* [@Josh Lowy](https://github.com/DLJ42) (**Software Engineer**)
+    * *GO*
+* [@Donald Thompson](https://github.com/dthompsonii) (**Software Engineer**)
     * *Kotlin*
-* [@Vlad Smirnov](https://github.com/Pr0vlad) (**Software Developer**)
+* [@Vlad Smirnov](https://github.com/Pr0vlad) (**Software Engineer**)
     * *C#*
-* [@Riley Kollman](https://github.com/kr-1) (**Database Lead**)
+* [@Riley Kollman](https://github.com/kr-1) (**Software Engineer**)
     * *C++*
-* [@Ethan Unkefer](https://github.com/eunkefer) (**Quality Manager**)
+* [@Ethan Unkefer](https://github.com/eunkefer) (**Software Engineer**)
     * *Cobol*
