@@ -17,10 +17,6 @@ The `CodeAssassin.bat` is the program you will run to kick off the program. Ever
 
 The **Core Process** is a core program that utilizes the language modules to perform the assitive programing with any integrated development environment (*IDE*). The `appDecoder.ps1` is a dependency you will need to have in the same directory as the **Core Process**.
 
-## Progress
-
-Follow the current stage of the project [here](https://github.com/Abesuden/Code-Assassin/projects/1).
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -47,38 +43,18 @@ A step by step guide on how to set up the project on your local machine.
 Pull/download the Code Assassin programs called:
 
 ```
+CodeAssassin.bat
 CoreProcess.exe
+appDecoder.ps1
+LangLib.txt
 ```
 
 Install all desired language modules found [here](https://github.com/Abesuden/Code-Assassin/tree/master/languageModules)
 
 ## Deployment
 
-This program uses language modules in the form of plug and play, where a user can download a new language module and drop it right into the Code Assassin file and have access to a new programming language.
-
-## Built With
-
-* [Visual Basic Scripting](https://ss64.com/vb/)
-
-## Versioning
-
-We use [Git](https://git-scm.com/doc) for versioning. For the versions available, see the [tags on this repository](https://github.com/Code-Assassin/tags).
+This program uses language modules in the form of plug and play, where a user can download a new language module and drop it right into the Code Assassin file and have access to a new programming language support.
 
 ## Authors
 
 * **Alex Besuden** - *Provided README* - [@abesuden](https://github.com/abesuden)
-
-See also the list of [contributors](https://github.com/abesuden/Code-Assassin/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the [MIT](LICENSE.md) Creative Commons License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* [@Alex Besuden](https://github.com/abesuden) (**Project Manager/Software Engineer**)
-* [@Josh Lowy](https://github.com/DLJ42) (**Solutions Architect**)
-* [@Donald Thompson](https://github.com/dthompsonii) (**Software Developer**)
-* [@Vlad Smirnov](https://github.com/Pr0vlad) (**Software Developer**)
-* [@Riley Kollman](https://github.com/kr-1) (**Database Lead**)
-* [@Ethan Unkefer](https://github.com/eunkefer) (**Quality Manager**)
