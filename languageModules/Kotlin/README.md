@@ -1,8 +1,8 @@
 # CodeAssassin Kotlin Module
 ![Progress](https://img.shields.io/badge/Module-inProgress-grey.svg)
-[![Version](https://img.shields.io/badge/Version-v0.0.1-informational.svg)](https://github.com/Abesuden/Software-Engineering/commits/master/languageModules/Kotlin/README.md)
+[![Version](https://img.shields.io/badge/Version-v0.0.1-informational.svg)](https://github.com/Abesuden/Code-Assassin/commits/master/languageModules/Kotlin/README.md)
 
-![Kotlin Logo](https://github.com/Abesuden/Software-Engineering/blob/master/img/languageLogos/Kotlin_logo.png)
+![Kotlin Logo](https://github.com/Abesuden/Code-Assassin/blob/master/img/languageLogos/Kotlin_logo.png)
 
 ## The following aliases are supported:
 
