@@ -9,13 +9,13 @@ escapeHelper_p3.py  -== python3 ==-
 
 ## Escape Helper
 
-This is a python program that takes in input of any programming language syntax and escape the syntax in preperation for building the CA module. It is useful because CA passes the language's syntax through two Windows 10 specific languages. That means, there are two levels of escaping to be done and they are unconventional. Documentation of the type of escapes being done can be found [here](https://github.com/Abesuden/Software-Engineering/blob/master/doc/escapeGuide.md).
+This is a python program that takes in input of any programming language syntax and escape the syntax in preperation for building the CA module. It is useful because CA passes the language's syntax through two Windows 10 specific languages. That means, there are two levels of escaping to be done and they are unconventional. Documentation of the type of escapes being done can be found [here](https://github.com/Abesuden/Code-Assassin/blob/master/doc/escapeGuide.md).
 
 ## Authors
 
 * **Alex Besuden** - *Provided README* - [@abesuden](https://github.com/abesuden)
 
-See also the list of [contributors](https://github.com/abesuden/software-engineering/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/abesuden/Code-Assassin/contributors) who participated in this project.
 
 ## License
 
